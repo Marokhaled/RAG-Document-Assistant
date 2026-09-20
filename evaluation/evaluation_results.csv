@@ -1,0 +1,12 @@
+Question,Retrieved Source,Cosine Distance,Context Relevance,Grounded,Evaluation Result
+What is virtual memory and how do page faults occur?,CS101_Operating_Systems_Guide.pdf (p. 3),0.2498,High,Yes,Pass
+What are the four necessary conditions for a deadlock in Operating Systems?,CS101_Operating_Systems_Guide.pdf (p. 2),0.3137,High,Yes,Pass
+What is the difference between a process and a thread?,CS101_Operating_Systems_Guide.pdf (p. 2),0.3252,High,Yes,Pass
+What are the ACID properties in database management systems?,CS102_Database_Management_Systems.pdf (p. 3),0.3893,High,Yes,Pass
+Explain Third Normal Form (3NF) and BCNF in relational databases.,CS102_Database_Management_Systems.pdf (p. 2),0.2646,High,Yes,Pass
+Why are B-Trees and B+ Trees used for database indexing?,CS102_Database_Management_Systems.pdf (p. 4),0.2658,High,Yes,Pass
+Explain the TCP 3-Way Handshake process in computer networks.,CS103_Computer_Networks_Handout.pdf (p. 2),0.3084,High,Yes,Pass
+What are the 7 layers of the OSI reference model?,CS103_Computer_Networks_Handout.pdf (p. 1),0.4895,High,Yes,Pass
+What is the difference between Monolithic and Microservices architecture?,CS104_Software_Engineering_Principles.pdf (p. 2),0.3224,High,Yes,Pass
+What are the standard HTTP methods and status codes in REST APIs?,CS104_Software_Engineering_Principles.pdf (p. 3),0.3668,High,Yes,Pass
+What is Quantum Computing Superposition in Computer Systems?,CS101_Operating_Systems_Guide.pdf (p. 1),0.6721,Low (Out of Domain),Yes,Pass (Refused)
