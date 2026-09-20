@@ -299,7 +299,16 @@ The system was evaluated against 11 representative questions:
 
 ---
 
+## 🖼️ User Interface & Application Demonstration
+
+![RAG Document Assistant Streamlit UI](docs/assets/app_screenshot.png)
+
+*The Streamlit web interface demonstrating live query execution (`Explain process vs thread.`), active backend status indicators, ChromaDB chunk count metrics, local Ollama LLM readiness, and document-grounded answer rendering with exact source citations.*
+
+---
+
 ## ⚙️ Environment Variables
+
 
 | Variable | Default Value | Description |
 | :--- | :--- | :--- |
