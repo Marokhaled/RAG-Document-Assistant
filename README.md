@@ -129,7 +129,7 @@ rag-assistant-project/
 Clone the repository and create a virtual environment:
 
 ```bash
-git clone https://github.com/your-username/rag-assistant-app.git
+git clone https://github.com/Marokhaled/rag-assistant-app.git
 cd rag-assistant-app
 
 python -m venv .venv
